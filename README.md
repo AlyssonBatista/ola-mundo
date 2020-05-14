@@ -1,4 +1,3 @@
 # olá, mundo!
 
- Primeiro repositório versionado
- Criado em aula.
+ Primeiro repositório versionado criado em aula.
